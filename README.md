@@ -47,7 +47,7 @@ where:
 GUI is started by typing 
 
 ```
-./gui2 [-p n]
+./gui2 p
 ```
 
-where -p is its port number (default 20210).
+where p is its port number.
